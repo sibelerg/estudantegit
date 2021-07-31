@@ -1,0 +1,4 @@
+C:\Users\cibele\source\repos\exercicio de matematica agora\exercicio de matematica agora\obj\Debug\netcoreapp3.1\exercicio de matematica agora.csproj.AssemblyReference.cache
+C:\Users\cibele\source\repos\exercicio de matematica agora\exercicio de matematica agora\obj\Debug\netcoreapp3.1\exercicio de matematica agora.AssemblyInfoInputs.cache
+C:\Users\cibele\source\repos\exercicio de matematica agora\exercicio de matematica agora\obj\Debug\netcoreapp3.1\exercicio de matematica agora.AssemblyInfo.cs
+C:\Users\cibele\source\repos\exercicio de matematica agora\exercicio de matematica agora\obj\Debug\netcoreapp3.1\exercicio de matematica agora.csproj.CoreCompileInputs.cache
